@@ -6,7 +6,7 @@ Title!![header](https://capsule-render.vercel.app/api?type=waving&color=auto&hei
 더 많은 정보는 여기서 : https://github.com/kyechan99/capsule-render
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontAlignY=45&fontAlign=75&desc=Energetic%20Hojun's%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20👋&fontAlignY=45&fontAlign=75&desc=0AndWild%20Gunyoung's%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
 
 
 <!--
