@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @0AndWild
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning Java, Spring
-- 📫 kakaotalk: live_in_young
-- 📫 instagram(DM): naneunya_gun0
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCZSwiw1WIAAwrP_.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fvinaykrkatiyar%2Fstatus%2F690370756774137856&tbnid=JXUjnV7VV-wO0M&vet=12ahUKEwiYlI6U6rv5AhWOUN4KHbD-BIkQMygAegQIARAi..i&docid=SAGiQp2QGndspM&w=585&h=350&q=CZSwiw1WIAAwrP_&ved=2ahUKEwiYlI6U6rv5AhWOUN4KHbD-BIkQMygAegQIARAi">
