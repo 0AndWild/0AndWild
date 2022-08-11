@@ -53,7 +53,8 @@ Badges and Icons
 <img src="https://img.shields.io/badge/SSL-721412?style=for-the-badge&logo=openssl&logoColor=white">
 
 ### Data Base
-<img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-dc382d?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<!--img src="https://img.shields.io/badge/redis-dc382d?style=for-the-badge&logo=redis&logoColor=white"-->
 
 ### AWS
 <img src="https://img.shields.io/badge/Amazon s3-569a31?style=for-the-badge&logo=amazons3&logoColor=white"> 
