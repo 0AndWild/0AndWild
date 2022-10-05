@@ -77,7 +77,7 @@ Badges and Icons
 #
 
 ### SNS lists
-<a href="https://www.instagram.com/naneunya_gun0/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://velog.io/@0andwild"><img src="https://img.shields.io/badge/Tech BLOG-03c75a?style=for-the-badge&logo=Velog&logoColor=white"></a> <a href="https://https://0andwild.tistory.com/"><img src="https://img.shields.io/badge/Tech BLOG-000000?style=for-the-badge&logo=Tistroy&logoColor=white"></a> <a  href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/naneunya_gun0/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://velog.io/@0andwild"><img src="https://img.shields.io/badge/Tech BLOG-03c75a?style=for-the-badge&logo=Velog&logoColor=white"></a> <a href="https://0andwild.tistory.com/"><img src="https://img.shields.io/badge/Tech BLOG-000000?style=for-the-badge&logo=Tistroy&logoColor=white"></a> <a  href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </center>
 
