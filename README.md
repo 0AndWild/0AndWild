@@ -16,15 +16,6 @@ status 넣는거 ![닉네임's github stats](https://github-readme-stats.vercel.
 
 ![0AndWild's github stats](https://github-readme-stats.vercel.app/api?username=0AndWild&show_icons=true&theme=react)
 
-### Projects
-updating...
-
-<!--
-Total visitors?!
-더 많은 정보는 여기서 : https://hits.seeyoufarm.com/
-// 저기서 그냥 링크 만드는게 더 편함
--->
-
 ### Total Visitors 
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=0AndWild&color=green)
@@ -39,7 +30,7 @@ Badges and Icons
 -->
 
 ### SNS lists
-<a href="https://www.instagram.com/naneunya_gun0/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://0andwild.tistory.com/"><img src="https://img.shields.io/badge/Tech BLOG-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a> <a  href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://0andwild.tistory.com/"><img src="https://img.shields.io/badge/Tech BLOG-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a> <a  href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </center>
 
