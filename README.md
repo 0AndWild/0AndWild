@@ -26,7 +26,9 @@ Total visitors?!
 -->
 
 ### Total Visitors 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0AndWild&count_bg=%231CC4B3&title_bg=%233C4341&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+```
+![Visitor Badge](https://komarev.com/ghpvc/?username=0AndWild&color=green)
+```
 
 #
 
