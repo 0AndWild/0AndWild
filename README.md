@@ -26,9 +26,9 @@ Total visitors?!
 -->
 
 ### Total Visitors 
-```
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=0AndWild&color=green)
-```
+
 
 #
 
