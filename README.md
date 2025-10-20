@@ -30,7 +30,9 @@ Badges and Icons
 -->
 
 ### SNS lists
- <a href="https://0andwild.tistory.com/"><img src="https://img.shields.io/badge/Tech BLOG-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a> <a  href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://0andwild.github.io/"><img src="https://img.shields.io/badge/Tech BLOG-ffffff?style=for-the-badge&logoColor=Black"></a> 
+ [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/)](https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/)
+ <a  href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
 </center>
 
