@@ -1,39 +1,115 @@
 <div align="center">
 
-<!--
-Title!![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontAlignY=45&fontAlign=75&desc=0AndWild%20Gunyoung's%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
-// SpaceBar : %20
-더 많은 정보는 여기서 : https://github.com/kyechan99/capsule-render
--->
+### 👨‍💻 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20👋&fontAlignY=45&fontAlign=75&desc=0AndWild%20Gunyoung's%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
+<table>
+<tr>
+<td>
 
+**🚀 Backend Developer** passionate about building scalable and efficient systems
 
-<!--
-status 넣는거 ![닉네임's github stats](https://github-readme-stats.vercel.app/api?username=0AndWild&show_icons=true&theme=테마)
-더 많은 정보는 여기서 : https://github.com/anuraghazra/github-readme-stats
--->
+**📍 Location:** South Korea 🇰🇷
 
-![0AndWild's github stats](https://github-readme-stats.vercel.app/api?username=0AndWild&show_icons=true&theme=react)
+**💼 Main Stack:** Java • Spring Boot • PostgreSQL
 
-### Total Visitors 
+**🎯 Focus Areas:**
+- Backend Architecture & Design Patterns
+- Database Optimization & Performance Tuning
+- Cloud Infrastructure & DevOps
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=0AndWild&color=green)
+</td>
+</tr>
+</table>
 
+</div>
 
-#
+---
 
-<!--
-Badges and Icons
-<img src="https://img.shields.io/badge/스택이름-색코드(#제외)?style=for-the-badge&logo=스택이름(공백허용안됨)&logoColor=white">
-// icons : https://simpleicons.org/
--->
+<div align="center">
 
-### SNS lists
- <a href="https://0andwild.github.io/"><img src="https://img.shields.io/badge/Tech BLOG-ffffff?style=for-the-badge&logoColor=Black"></a> 
- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/)](https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/)
- <a  href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+### 🛠️ Tech Stack
 
-</center>
+#### Core Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+#### Database & Search
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### Development Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+#### Database Tools
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+
+#### Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0AndWild&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AndWild&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=0AndWild&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Activity Graph
+
+[![Gunyoung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0AndWild&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect with Me
+
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://0andwild.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkky3563@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0andwild.github.io/) -->
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=0AndWild&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
