@@ -71,22 +71,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AndWild&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
 
 </div>
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=0AndWild&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 <div align="center">
 
 ### 📈 Activity Graph
 
-[![Gunyoung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0AndWild&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gunyoung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0AndWild&theme=merko&area=true&hide_border=false&bg_color=292C34)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
