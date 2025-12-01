@@ -67,7 +67,6 @@
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0AndWild&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AndWild&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
 
 </div>
