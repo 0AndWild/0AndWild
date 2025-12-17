@@ -65,26 +65,6 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AndWild&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Activity Graph
-
-[![Gunyoung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0AndWild&theme=merko&area=true&hide_border=false&bg_color=292C34)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌐 Connect with Me
 
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://0andwild.github.io/)
