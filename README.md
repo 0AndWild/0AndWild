@@ -3,6 +3,12 @@
 
 Backend Developer focused on solving business problems and delivering meaningful impact.
 
+<b>Current Interests</b> ──────────────────────────────────────────────────────────────────────────────
+
+AI Tools · AI-Native Workflows · AI Agents · Harness Engineering
+Context Engineering · AI Safety &amp; Guardrails
+Personal Knowledge Base · Persistent Agent Memory
+
 <b>Tech Stack</b> ─────────────────────────────────────────────────────────────────────────────────────
 
 Core Backend ............ Java · Spring Boot · Gradle
@@ -12,7 +18,7 @@ IDE ..................... Codex · Claude Code · IntelliJ · Cursor · VS Code 
 
 <b>Contact</b> ────────────────────────────────────────────────────────────────────────────────────────
 
-<a href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://0andwild.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Tech Blog"></a>
+<a href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://0andwild.github.io/en"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Tech Blog"></a>
 </pre>
 
 <picture>
