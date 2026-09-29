@@ -1,86 +1,16 @@
-<div align="center">
+<pre>
+<a href="https://github.com/0AndWild">0AndWild@github</a> ─────────────────────────────────────────────────────────────────────────────────
 
-### 👨‍💻 About Me
+Backend Developer focused on solving business problems and delivering meaningful impact.
 
-<table>
-<tr>
-<td>
+<b>Tech Stack</b> ─────────────────────────────────────────────────────────────────────────────────────
 
-**🚀 Backend Developer** passionate about building scalable and efficient systems
+Core Backend ............ Java · Spring Boot · Gradle
+Database &amp; Search ....... PostgreSQL · MySQL · Redis · Elasticsearch
+Cloud &amp; Infrastructure .. AWS · GCP · Docker · Kubernetes
+IDE ..................... Codex · Claude Code · IntelliJ · Cursor · VS Code · DBeaver · DataGrip
 
-**📍 Location:** South Korea 🇰🇷
+<b>Contact</b> ────────────────────────────────────────────────────────────────────────────────────────
 
-**💼 Main Stack:** Java • Spring Boot • PostgreSQL
-
-**🎯 Focus Areas:**
-- Backend Architecture & Design Patterns
-- Database Optimization & Performance Tuning
-- Cloud Infrastructure & DevOps
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-#### Core Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-#### Database & Search
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-#### Development Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-#### Database Tools
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
-
-#### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Connect with Me
-
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://0andwild.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parkky3563@gmail.com)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0andwild.github.io/) -->
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=0AndWild&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
+<a href="mailto:parkky3563@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/%EA%B1%B4%EC%98%81-%EB%B0%95-158861275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://0andwild.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Tech Blog"></a>
+</pre>
